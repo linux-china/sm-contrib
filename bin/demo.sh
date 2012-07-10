@@ -1,6 +1,5 @@
 #!/bin/bash
 echo "=================="
-echo "DATE: ==> $DATE"
 echo "TIME: ==> $TIME"
 echo "USERS: ==> $USERS"
 echo "LOAD: ==> $LOAD"
