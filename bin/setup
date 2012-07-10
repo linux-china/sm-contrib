@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# In this file you define action code for 'sm sm-contrib setup', 
+# you might use here any function provided by functions and includes (APIs) in:
+# sm-contrib/shell
